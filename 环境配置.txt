@@ -1,0 +1,18 @@
+
+需手动访问网址：http://localhost:8082/javaweb_war_exploded/
+
+推荐使用配置版本：
+	SDK:Java 1.8
+	集成开发环境：IntelliJ IDEA 2020.1.1
+	服务器：Tomcat 8.5.69
+	数据库：MySQL 6.3
+	DBMS：mysql-connector-java-8.0.29-bin.jar
+
+
+步骤：①连接数据库mysql：ssh_hospital_registration
+		数据库用户：root
+		数据库密码：121388
+          ②配置tomcat
+          ③运行
+登陆页面用户名：苏颖悦
+	密码：121388
